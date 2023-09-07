@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Monster-leve/Monster-Hospital_Novel.umap",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Datatables/DT_Dialougeinfo.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/EGGHEAD.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/GORCHEAD.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/GORQ_TALK_1.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/GORQ_TALK_2.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/GORQ_TALK_3.uasset",
+				"C:/Users/ballen3/Documents/GitHub/Monster_Hospital-/Content/Assets/Textures/MONSTERTALK1.uasset",
 				"C:/Users/Sgamble/Documents/GitHub/Monster_Hospital-/Content/BP/HUD/Text_Hud.uasset",
 				"C:/Users/Sgamble/Documents/GitHub/Monster_Hospital-/Content/Datatables/DT_Dialougeinfo.uasset",
 				"C:/Users/Sgamble/Documents/GitHub/Monster_Hospital-/Content/Structure/S_Dialougeinfo.uasset",
